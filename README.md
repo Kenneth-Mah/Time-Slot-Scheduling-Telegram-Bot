@@ -54,3 +54,5 @@ They get commission from completing these priority deliveries | They know with m
 ### Stripe API
 
     >We used the Stripe API to make it possible for the user to submit a payment
+
+A special thanks to the other members of Team Sneaky Truck Drivers - Wei Han (@weihan-01), Elijah (@Elijah5399), Benjamin (@Quasant), and Aidan (@ardentaegis17).
